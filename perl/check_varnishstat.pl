@@ -39,7 +39,7 @@ sub print_usage {
 }
 
 sub print_help {
-        print "Copyright (c) 2003 Steven Grimm\n\n";
+        print "Copyright (c) 2012 Gianni Carafa\n\n";
         print_usage();
         print "\n";
         print "\n";
